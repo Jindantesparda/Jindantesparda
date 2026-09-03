@@ -106,7 +106,7 @@ spaces.
 **AI for Accessibility**
 
 An assistive-technology project exploring computer vision and AI to help
-visually impaired users better understand their surroundings.
+visually impaired users better understand and navigate their surroundings using 3D sound cues.
 
 **Python · OpenCV · AI · Embedded Systems**
 
