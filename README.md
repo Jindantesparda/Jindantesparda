@@ -30,25 +30,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer and Computer Science graduate** who enjoys building
-things at the intersection of **software engineering, artificial intelligence,
-computer vision and computer graphics**.
+I'm a **Software Developer and Computer Science graduate** interested in
+building things at the intersection of **software engineering, artificial
+intelligence, computer vision and computer graphics**.
 
-I like taking ideas that are interesting on paper and turning them into
-**working systems, prototypes and products**.
+I enjoy taking unusual technical ideas and turning them into **working
+systems, prototypes and products**.
 
-My work ranges from AI-powered accessibility and computer vision to
-3D reconstruction, immersive web experiences and SaaS products.
+My work spans AI-powered accessibility, computer vision, 3D reconstruction,
+immersive web experiences and SaaS.
 
 ### Currently exploring
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- 🎨 Computer Graphics & 3D
-- 🧊 3D Gaussian Splatting
-- 📸 Photogrammetry & 3D Reconstruction
-- 🌐 Interactive Web Experiences
-- 🚀 SaaS & Product Development
+🤖 Artificial Intelligence & Machine Learning  
+👁️ Computer Vision  
+🎨 Computer Graphics & 3D  
+🧊 3D Gaussian Splatting  
+📸 Photogrammetry & 3D Reconstruction  
+🌐 Interactive Web Experiences  
+🚀 SaaS & Product Development  
 
 ---
 
@@ -56,14 +56,15 @@ My work ranges from AI-powered accessibility and computer vision to
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## 🧠 SCIF
+### 🧠 SCIF
 
 **SIM Contact Image Format**
 
-An experimental image format built around the idea of storing image data
-through simulated SIM-card contact records.
+An experimental image format that explores storing image data through
+simulated SIM-card contact records.
 
 Built with a custom encoder, decoder, file structure and verification system.
 
@@ -79,13 +80,12 @@ Built with a custom encoder, decoder, file structure and verification system.
 
 <td width="50%" valign="top">
 
-## 🌍 ZimVista
+### 🌍 ZimVista
 
 **Immersive 3D Experiences**
 
-A project exploring the use of **3D Gaussian Splatting, photogrammetry and
-web-based 3D** to create immersive digital representations of real-world
-spaces.
+A project exploring **3D Gaussian Splatting, photogrammetry and web-based
+3D** to create immersive digital representations of real-world spaces.
 
 **3DGS · Three.js · Blender · Web Graphics**
 
@@ -96,17 +96,20 @@ spaces.
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## ♿ Braille-Eyes
+### ♿ Braille-Eyes
 
 **AI for Accessibility**
 
-An assistive-technology project exploring computer vision and AI to help
-visually impaired users better understand and navigate their surroundings using 3D sound cues.
+An assistive-technology project using computer vision and AI to help visually
+impaired users better understand and navigate their surroundings using
+**3D sound cues**.
 
 **Python · OpenCV · AI · Embedded Systems**
 
@@ -120,7 +123,7 @@ visually impaired users better understand and navigate their surroundings using 
 
 <td width="50%" valign="top">
 
-## 📍 LocalRank SEO
+### 📍 LocalRank SEO
 
 **Local SEO SaaS**
 
@@ -136,6 +139,7 @@ visibility and understand how they perform in local search.
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -145,27 +149,43 @@ visibility and understand how they perform in local search.
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cs,html,css" />
 
 <br><br>
 
-### AI · Computer Vision · Data
+### 🤖 AI · Computer Vision · Generative AI
 
 <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
 
 <br><br>
 
-### Web · Backend · 3D
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,spring,threejs,blender,unity" />
+<img src="https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 
 <br><br>
 
-### Tools
+### 🌐 Web · Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,spring,threejs,vercel" />
+
+<br><br>
+
+### 🎨 3D · Computer Graphics
+
+<img src="https://skillicons.dev/icons?i=blender,unity,unreal,threejs" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LichtFeld%20Studio-1F1F1F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RealityScan-1F1F1F?style=for-the-badge" />
+
+<br><br>
+
+### ⚙️ Development & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
 </div>
 
@@ -175,9 +195,11 @@ visibility and understand how they perform in local search.
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖
+
 **AI**
 
 Machine Learning  
@@ -189,6 +211,7 @@ Intelligent Systems
 <td align="center" width="25%">
 
 ### 👁️
+
 **Vision**
 
 Computer Vision  
@@ -200,6 +223,7 @@ Spatial Understanding
 <td align="center" width="25%">
 
 ### 🎨
+
 **3D**
 
 Gaussian Splatting  
@@ -211,6 +235,7 @@ Real-time Graphics
 <td align="center" width="25%">
 
 ### 🌐
+
 **Software**
 
 Web Applications  
@@ -218,6 +243,7 @@ SaaS
 Developer Tools
 
 </td>
+
 </tr>
 </table>
 
@@ -256,12 +282,13 @@ Images / Video
 │ Interactive   │
 │ 3D Experience │
 └───────────────┘
+I'm especially interested in how these technologies can be used for
+digital twins, tourism, education, visualization and immersive web
+experiences.
 
 💡 How I Build
 <div align="center">
-
 Explore → Build → Experiment → Iterate → Ship
-
 </div>
 
 I enjoy starting with unusual technical ideas, building a working prototype,
@@ -281,15 +308,13 @@ It's discovering what else it can become.
 
 I'm also a 3D artist and visual creator.
 
-That creative background heavily influences how I approach software.
-
-I enjoy working with:
+My creative work includes:
 
 3D Modelling · Animation · Lighting · Materials · Rendering ·
 Real-time Graphics · Visualisation
 
-I like building things that aren't only functional, but also look and feel
-good to use.
+That creative background influences how I approach software — I like building
+things that aren't only functional, but also look and feel good to use.
 
 🤝 Let's Connect
 <div align="center"> <a href="https://munyaradzimzite.vercel.app/"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-181717?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/munyaradzi-mzite-1499b320/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:preyzmunya@gmail.com"> <img src="https://img.shields.io/badge/✉️%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
@@ -299,3 +324,19 @@ good to use.
 Always building. Always experimenting.
 
 </div> ```
+Your toolbox now communicates this
+
+Languages
+→ Python · Java · JavaScript · TypeScript · C# · HTML · CSS
+
+AI / Vision
+→ PyTorch · OpenCV · ComfyUI · Ollama
+
+Web
+→ Next.js · Node.js · Spring · Three.js · Vercel
+
+3D
+→ Blender · Unity · Unreal · Three.js · LichtFeld Studio · RealityScan
+
+Development
+→ Git · GitHub · Linux · VS Code
